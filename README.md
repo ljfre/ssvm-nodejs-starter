@@ -8,6 +8,13 @@
 * The JavaScript functions are in the `node` directory and they can access the Rust functions.
 * Use the `node node/app.js` command to run the application in Node.js.
 
+## Describe
+
+By modifying the original demo ssvm-nodejs-starter to calculate the circle area.
+Input the circle's radius,the program will calculate the circle's area then convert to String and output.
+Frame: koa + koa-static + koa-body
+
+
 
 ## Use Docker to build and run
 
